@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudia0x0
 
-American girl who is dedicated to helping catch bad guys with OSINT tactics, there is not much else here.
+American girl who is dedicated to helping catch bad guys with OSINT tactics.
 
 * email: d2tk1kzt6@mozmail.com
 
