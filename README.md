@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudia0x0
 
-American girl who is dedicated to helping with OSINT tactics.
+{lol'ś
 
 * email: d2tk1kzt6@mozmail.com
 
